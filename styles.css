@@ -22,5 +22,9 @@ body {
   line-height: 1em;
 }
 
+.form-control {
+  border-radius: 35px;
+}
+
 
 
